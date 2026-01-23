@@ -59,5 +59,14 @@
       "You have successfully undone the init operation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1769142357.953833,
+    "completed_at": 1769142360.774294,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
   }
 ]
