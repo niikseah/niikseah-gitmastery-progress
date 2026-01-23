@@ -68,5 +68,14 @@
       "You should have made a separate commit!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1769142500.265245,
+    "completed_at": 1769142502.120193,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
   }
 ]
