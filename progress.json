@@ -365,23 +365,5 @@
       "The 'sleep-line' branch should have the line 'I fell asleep on the couch.' added to story.txt."
     ],
     "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1769612217.631654,
-    "completed_at": 1769612220.548449,
-    "comments": [
-      "You are missing some merges"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1769612381.892012,
-    "completed_at": 1769612389.104124,
-    "comments": [
-      "You are missing some merges"
-    ],
-    "status": "Incomplete"
   }
 ]
